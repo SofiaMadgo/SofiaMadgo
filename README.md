@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**SofiaMadgo/SofiaMadgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Hola, mundo!
 
-Here are some ideas to get you started:
+- 🔭 Actualmente estoy trabajando como copywritter para sitios web en **Gleo**
+- 🌱 Actualmente estoy aprendiendo en [Tecnolochicas](https://tecnolochicas.mx/)
+- 👯 Estoy buscando colaborar en proyectos digitales que mezclen la redacción en diferentes plataformas con la creación y diseño web.
+- 🤔 Estoy aprendiendo sobre creación de sitios web.
+- 📫 Puedes contactarme por:
+  * Instagram: [@alexmadgo](https://www.instagram.com/alexmadgo/)
+  * LinkedIn: [Sofía González](https://www.linkedin.com/in/sof%C3%ADa-gonz%C3%A1lez-10b201256/)
+  * Discord: sofiamadgo
+- ⭐ Soy mexicana, amante de la fotografia y los animales
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  
+
